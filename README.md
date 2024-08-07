@@ -13,7 +13,7 @@
 ## Sobre 
 Este repositório tem como objetivo a realização de exercícios de D&C do site [leetcode](https://leetcode.com/), seguem os exercícios solucionados com seus respectivos vídeos:
 
-1 - [](): Hard. [Vídeo]()
+1 - [Median of Two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/): Hard. [Vídeo]()
 </br>
 2 - [](): Medium [Vídeo]()
 </br>
@@ -25,7 +25,7 @@ Este repositório tem como objetivo a realização de exercícios de D&C do site
 As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo site:
 
 ##### 1 - 
-![]()
+![](./assets/MOT.png)
 
 <div style="text-align: center">
 <p> Imagem 1: Código aceito primeiro exercício (Fonte: Autor, 2024).</p>
