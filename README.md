@@ -13,9 +13,9 @@
 ## Sobre 
 Este repositório tem como objetivo a realização de exercícios de D&C do site [leetcode](https://leetcode.com/), seguem os exercícios solucionados com seus respectivos vídeos:
 
-1 - [Median of Two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/): Hard. [Vídeo]()
+1 - [Median of Two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/): Hard. [Vídeo](https://youtu.be/NLcQMjQ1ACQ)
 </br>
-2 - [](): Medium [Vídeo]()
+2 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix-ii/): Medium [Vídeo](https://youtu.be/XPMrSFviYFE)
 </br>
 3 - [](): Medium. [Vídeo]()
 </br>
@@ -24,15 +24,14 @@ Este repositório tem como objetivo a realização de exercícios de D&C do site
 ## Screenshots
 As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo site:
 
-##### 1 - 
+##### 1 - Median of Two sorted arrays 
 ![](./assets/MOT.png)
-
 <div style="text-align: center">
 <p> Imagem 1: Código aceito primeiro exercício (Fonte: Autor, 2024).</p>
 </div>
 
-##### 2 - 
-![]()
+##### 2 - Search a 2D Matrix
+![](./assets/S2D.png)
 
 <div style="text-align: center">
 <p> Imagem 2: Código aceito segundo exercício (Fonte: Autor, 2024).</p>
