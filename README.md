@@ -17,9 +17,9 @@ Este repositório tem como objetivo a realização de exercícios de D&C do site
 </br>
 2 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix-ii/): Medium [Vídeo](https://youtu.be/XPMrSFviYFE)
 </br>
-3 - [](): Medium. [Vídeo]()
+3 - [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/description/): Hard. [Vídeo](https://youtu.be/Hhs-d6XPiZI)
 </br>
-4 - [](): Medium. [Vídeo]()
+4 - [Sort list](https://leetcode.com/problems/sort-list/description/): Medium. [Vídeo](https://youtu.be/-umEm8GXtEw)
 
 ## Screenshots
 As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo site:
@@ -37,15 +37,17 @@ As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo 
 <p> Imagem 2: Código aceito segundo exercício (Fonte: Autor, 2024).</p>
 </div>
 
-##### 3 - 
-![](assets/.png)
+##### 3 - Merge k sorted list
+
+![Screenshot from 2024-08-21 19-55-21](https://github.com/user-attachments/assets/b0816880-540c-48a4-9eba-1e512c93da11)
 
 <div style="text-align: center">
 <p> Imagem 3: Código aceito terceiro exercício (Fonte: Autor, 2024).</p>
 </div>
 
-##### 4 - 
-![](assets/.png)
+##### 4 - Sort list
+
+![Screenshot from 2024-08-21 19-58-21](https://github.com/user-attachments/assets/08e2326f-6919-41c6-805d-11d4997e939e)
 
 <div style="text-align: center">
 <p> Imagem 4: Código aceito quarto exercício (Fonte: Autor, 2024).</p>
